@@ -1,7 +1,7 @@
 ## Hi there 👋 This is Zhi-Yi's GitHub Profile
 
-🍀 I'm [Zhi-Yi Chin](https://joycenerd.github.io/). I'm a research assistant in [@username](https://github.com/NYCU-RL-Bandits-Lab) at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/nycu/en) working with working with [Ping-Chun Hsieh](https://pinghsieh.github.io/)
-and collaborating closely with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage) from IBM and [Mario Fritz](https://cispa.saarland/group/fritz/).
+🍀 I'm [Zhi-Yi Chin](https://joycenerd.github.io/). I'm a research assistant in [@NYCU-RL-Bandits-Lab](https://github.com/NYCU-RL-Bandits-Lab) at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/nycu/en) working with [Ping-Chun Hsieh](https://pinghsieh.github.io/)
+and collaborating closely with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage) from IBM and [Mario Fritz](https://cispa.saarland/group/fritz/) from CISPA.
 
 👀 My research primarily explores **AI Safety**, with a particular emphasis on ensuring the trustworthiness of multimodal generative models. I also have a strong interest in alignment, interpretability, and generalization strategies for building more robust and reliable AI systems.
 
