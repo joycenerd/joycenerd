@@ -14,14 +14,6 @@ and collaborating closely with [Pin-Yu Chen](https://sites.google.com/site/pinyu
 [🧵 Threads](https://www.threads.net/@joycechin3.1415) /
 [📘 Facebook](https://www.facebook.com/joycenerd1998/)
 
-### Featured Repositories
-[![Repo P4D Card](https://github-readme-stats.vercel.app/api/pin/?username=joycenerd&repo=P4D)](https://github.com/joycenerd/P4D)
-[![Repo MPO_Reimplementation Card](https://github-readme-stats.vercel.app/api/pin/?username=joycenerd&repo=MPO_Reimplementation)](https://github.com/joycenerd/MPO_Reimplementation)
-[![Repo DNN-accelerator-on-zynq Card](https://github-readme-stats.vercel.app/api/pin/?username=joycenerd&repo=DNN-accelerator-on-zynq)](https://github.com/joycenerd/DNN-accelerator-on-zynq)
-[![Repo 3D_Augmentation Card](https://github-readme-stats.vercel.app/api/pin/?username=joycenerd&repo=3D_Augmentation)](https://github.com/joycenerd/3D_Augmentation)
-[![Repo personal-website-template Card](https://github-readme-stats.vercel.app/api/pin/?username=joycenerd&repo=personal-website-template)](https://github.com/joycenerd/personal-website-template)
-[![Repo rsna-pneumonia-detection Card](https://github-readme-stats.vercel.app/api/pin/?username=joycenerd&repo=rsna-pneumonia-detection)](https://github.com/joycenerd/rsna-pneumonia-detection)
-
 In my free time, I enjoy 🏃running, 📚reading, and exploring 🧁dessert and ☕️coffee shops.
 
 I would like to to connect if you have similar interests in all the things I've mentioned above (AI Safety research, running, reading, dessert, coffee). 
