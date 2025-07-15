@@ -16,9 +16,7 @@ and collaborating closely with [Pin-Yu Chen](https://sites.google.com/site/pinyu
 
 In my free time, I enjoy 🏃running, 📚reading, and exploring 🧁dessert and ☕️coffee shops.
 
-I would like to to connect if you have similar interests in all the things I've mentioned above (AI Safety research, running, reading, dessert, coffee). 
-- Please feel free reaching out to me at [joycenerd.cs09[AT]nycu.edu.tw](mailto:joycenerd.cs09@nycu.edu.tw)
-- Or schedule a quick ☕️ coffee chat via [![Calendly](https://img.shields.io/badge/-Calendly-blueviolet?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/zhiyichin/1-1-discussion-with-zhi-yi)
+I would like to connect if you have similar interests in all the things I've mentioned above (AI Safety research, running, reading, dessert, coffee). Please feel free reaching out to me at [joycenerd.cs09[AT]nycu.edu.tw](mailto:joycenerd.cs09@nycu.edu.tw)
 
 You are the 👇 visitor who visits my profile 😆
 
