@@ -22,7 +22,7 @@ I would like to to connect if you have similar interests in all the things I've 
 
 You are the 👇 visitor who visits my profile 😆
 
-![Visitor Count](https://profile-counter.glitch.me/joycenerd/count.svg)
+![](https://komarev.com/ghpvc/?username=joycenerd&color=green)
 
 
 
